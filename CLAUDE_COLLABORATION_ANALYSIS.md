@@ -2,10 +2,10 @@
 
 ## Summary Statistics
 
-- Total commits analyzed: 158
-- Number of Claude co-authored commits found: 24
-- Percentage of commits with Claude collaboration: 15.19%
-- Number of unique human collaborators who worked with Claude: 6
+Total commits analyzed: 158
+Number of Claude co-authored commits found: 24
+Percentage of commits with Claude collaboration: 15.19%
+Number of unique human collaborators who worked with Claude: 6
 
 ## Top Claude Collaborators
 
